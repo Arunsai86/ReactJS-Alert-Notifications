@@ -1,0 +1,22 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.success {
+  color: #2dca73;
+  margin-right: 5px;
+}
+.error {
+  color: #ff0b37;
+  margin-right: 5px;
+}
+.warning {
+  color: #ffb800;
+  margin-right: 5px;
+}
+.info {
+  color: #0f81e0;
+  margin-right: 5px;
+}
